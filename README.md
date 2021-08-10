@@ -9,6 +9,7 @@
 ## 👀 Interests
 - 👀 Interested in Programming Apps and Backend.
 - 👀 I’m currently learning several programming languages, tools and methodologies (SQL, C#, Git, Github, HTML, CSS, Javascript, VUEjs, REST API, Java).
+- :earth_americas: Open to work abroad.
 
 
 ## 🙌 Skills
