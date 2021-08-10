@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Marcosl14
+- 👋 Hi, I’m @Marcosl14 from Argentina.
+- 💪 Since 2012 I´m graduated as an Electromechanical Engineering and since 2020 I´m studying to become a Programming Technician.
 - 👀 I’m interested in Programming Apps and Backend.
-- 🌱 I’m currently learning several programming languages and skills.
-- 📫 You can reach me in marcos_l14@hotmail.com or at www.linkedin.com/in/marcos-g-giordano-a3292672.
-
-<!---
-Marcosl14/Marcosl14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🙌 Very hardworking and commited to the tasks, I’m currently learning several programming languages and skills.
+- 😛 I speak English, German, Italian and Spanish (mother tongue).
+- 📫 You can reach me by mail: marcos_l14@hotmail.com or at www.linkedin.com/in/marcos-g-giordano-a3292672.
