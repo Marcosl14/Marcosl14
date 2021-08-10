@@ -12,8 +12,9 @@
 
 
 ## 🙌 Skills
-- 🙌 Very hardworking and commited to the tasks, 
-- 😛 I speak English, German, Italian and Spanish (mother tongue).
+- 🙌 Very hardworking and commited to the tasks.
+- :boom: Problem solving and passionate.
+- 😛 I speak English (fluent), German (fluent), Italian (fluent) and Spanish (mother tongue).
 
 
 ## :facepunch: Sports
