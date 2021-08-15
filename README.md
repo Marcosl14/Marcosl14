@@ -2,24 +2,26 @@
 
 
 ## 💪 Professional Background
-- 💪 Since 2012 I´m graduated as an Electromechanical Engineering and since 2020 I´m studying to become a Programming Technician.
-- 💪 Working very hard to becomme a Programmer. 
+- :mortar_board: Since 2012 I´m graduated as an Electromechanical Engineering and since 2020 I´m studying to become a Programming Technician.
+- :computer: Working very hard to become a Programmer. 
 
 
 ## 👀 Interests
 - 👀 Interested in Programming Apps and Backend.
-- 👀 I’m currently learning several programming languages, tools and methodologies (HTML, CSS, Javascript, VUEjs, Java, C#, SQL, MongoDB, Git, Github, REST API).
+- :school_satchel: I’m currently learning several programming languages, tools and methodologies (HTML, CSS, Javascript, VUEjs, Java, C#, SQL, MongoDB, Git, Github, REST API).
 - :earth_americas: Open to work abroad.
 
 
 ## 🙌 Skills
-- 🙌 Very hardworking and commited to the tasks.
-- :boom: Problem solving and passionate.
+- 🙌 Very hardworking and committed to the tasks.
+- :boom: Problem solving and passionate about writing beautiful and clean code.
+- :computer: Experience working remotely and proactive attitude.
+- :raised_hands: Independent as well as Teamworking.
 - 😛 I speak English (fluent), German (fluent), Italian (fluent) and Spanish (mother tongue).
 
 
 ## :facepunch: Sports
-- :facepunch: I love to go swimming, cicling and do gym.
+- :facepunch: I love to go swimming, cycling and do gym.
 
 
 ## :earth_americas: How to find me?
