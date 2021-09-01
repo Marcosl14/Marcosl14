@@ -9,7 +9,7 @@
 
 ## 👀 Interests
 - 👀 Interested in Programming Apps and Backend.
-- :school_satchel: I’m currently learning several programming languages, tools and methodologies (HTML, CSS, Javascript, VUEjs, Java, C#, SQL, MongoDB, Git, Github, REST API).
+- :school_satchel: I’m currently learning several programming languages, tools and methodologies (HTML, CSS, Javascript, VUEjs, NodeJS, C#, SQL, MongoDB, Git, Github, REST API).
 - :earth_americas: Open to work abroad.
 
 
