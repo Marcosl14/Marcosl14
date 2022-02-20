@@ -2,9 +2,9 @@
 
 
 ## 💪 Professional Background
-- :mortar_board: Since 2012 I´m graduated as an Electromechanical Engineering and since 2020 I´m studying to become a Programming Technician.
-- :computer: Working very hard to become a Programmer. 
-- :sparkler: Currently working for ZF as an Engineer.
+- :mortar_board: Since 2012 I´m graduated as an Electromechanical Engineering and since 2022 as a Programming Technician.
+- :computer: Working very hard to increase my programming knowledge. 
+- :sparkler: Currently working for NaranjaX as Backend Developer.
 
 
 ## 👀 Interests
