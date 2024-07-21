@@ -4,7 +4,7 @@
 ## 💪 Professional Background
 - :mortar_board: Since 2012 I´m graduated as an Electromechanical Engineering and since 2022 as a Programming Technician.
 - :computer: Working very hard to increase my programming knowledge. 
-- :sparkler: Currently working for NaranjaX as Backend Developer.
+- :sparkler: Currently working for NaranjaX as Sr. Software Engineer.
 
 
 ## 👀 Interests
